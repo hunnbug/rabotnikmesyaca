@@ -1,0 +1,4 @@
+﻿  swag.cpp
+Z:\CODING\mocha\C++\swag\swag\swag.cpp(53,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Z:\CODING\mocha\C++\swag\swag\swag.cpp(80,9): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "RtlZeroMemory"
+  swag.vcxproj -> Z:\CODING\mocha\C++\swag\x64\Debug\swag.exe

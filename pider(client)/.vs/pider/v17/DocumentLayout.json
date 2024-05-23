@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CODING\\mocha\\C\u002B\u002B\\pider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7602C8-4550-4955-A4BC-89CA20CB5907}|pider\\pider.vcxproj|Z:\\CODING\\mocha\\C\u002B\u002B\\pider\\pider\\pider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C7602C8-4550-4955-A4BC-89CA20CB5907}|pider\\pider.vcxproj|solutionrelative:pider\\pider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pider.cpp",
+              "DocumentMoniker": "Z:\\CODING\\mocha\\C\u002B\u002B\\pider\\pider\\pider.cpp",
+              "RelativeDocumentMoniker": "pider\\pider.cpp",
+              "ToolTip": "Z:\\CODING\\mocha\\C\u002B\u002B\\pider\\pider\\pider.cpp",
+              "RelativeToolTip": "pider\\pider.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T09:11:09.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

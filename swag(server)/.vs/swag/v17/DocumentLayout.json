@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CODING\\mocha\\C\u002B\u002B\\swag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE5EC94-AC21-4573-A382-DCF39DF10F38}|swag\\swag.vcxproj|Z:\\CODING\\mocha\\C\u002B\u002B\\swag\\swag\\swag.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EDE5EC94-AC21-4573-A382-DCF39DF10F38}|swag\\swag.vcxproj|solutionrelative:swag\\swag.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "swag.cpp",
+              "DocumentMoniker": "Z:\\CODING\\mocha\\C\u002B\u002B\\swag\\swag\\swag.cpp",
+              "RelativeDocumentMoniker": "swag\\swag.cpp",
+              "ToolTip": "Z:\\CODING\\mocha\\C\u002B\u002B\\swag\\swag\\swag.cpp",
+              "RelativeToolTip": "swag\\swag.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T07:27:53.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

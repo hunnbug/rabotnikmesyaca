@@ -1,0 +1,4 @@
+﻿  pider.cpp
+Z:\CODING\mocha\C++\pider\pider\pider.cpp(48,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Z:\CODING\mocha\C++\pider\pider\pider.cpp(85,9): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "RtlZeroMemory"
+  pider.vcxproj -> Z:\CODING\mocha\C++\pider\x64\Debug\pider.exe

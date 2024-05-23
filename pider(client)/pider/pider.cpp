@@ -20,7 +20,7 @@ int main()
     hints.ai_family = AF_INET;
     hints.ai_socktype = SOCK_STREAM;
     hints.ai_protocol = IPPROTO_TCP;
-    // так же создаем классические соединения
+    // так же создаем классические переменные
     
     int result = WSAStartup(MAKEWORD(2, 2), &wsaData); // запускаем сервис соединения
     if (result != 0) {
